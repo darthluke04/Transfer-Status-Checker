@@ -21,7 +21,7 @@ const nextConfig: NextConfig = {
    * https://github.com/johndoe/my-awesome-app, you should set this
    * to '/my-awesome-app'.
    */
-  basePath: '/Transfer-Status-Check',
+  basePath: '/Transfer-Status-Checker',
 
   /**
    * Disable Next.js's default image optimization, which is not compatible
